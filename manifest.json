@@ -1,0 +1,22 @@
+{
+    "manifest_version":3,
+    "name":"My first Extension",
+    "version":"0.0.1",
+    "description":"This is my first ever chrome extension.",
+    
+    "author":"sanyaadoda@gmail.com",
+    "icons": {
+        "16": "icon.png",
+        "32": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      },
+      "action": {
+        "default_popup":"popup.html",
+        "default_icon": {              
+          "16": "icon.png",  
+          "24": "icon.png",   
+          "32": "icon.png"    
+        }
+}
+}
