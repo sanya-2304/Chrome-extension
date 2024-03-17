@@ -1,0 +1,1 @@
+alert("this is your option page in js");

@@ -17,6 +17,8 @@
           "16": "icon.png",  
           "24": "icon.png",   
           "32": "icon.png"    
-        }
-}
+        },
+        "default_title":"Hello there"
+},
+"options_page":"options.html"
 }
